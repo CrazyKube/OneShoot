@@ -17,6 +17,7 @@ public class StartManager : MonoBehaviour {
     public GameObject registerPanel;                                //注册面板
     public GameObject gameLobbyPanel;                               //游戏大厅面板
     public GameObject pvpPanel;                                     //pvp面板
+    public GameObject secretPanel;                                  //秘籍面板
     public GameObject messagePanel;                                 //消息面板
     public Text messageText;                                        //消息文本
 

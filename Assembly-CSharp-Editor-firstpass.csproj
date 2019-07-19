@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{5E212C0B-24FD-8234-65FC-4B2EFDD37345}</ProjectGuid>
+    <ProjectGuid>{B2C4ADA7-34EC-A2B3-BF7B-18829F5ED304}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor-firstpass</AssemblyName>
@@ -217,37 +217,37 @@
     <Compile Include="Assets\Plugins\Editor\FingerGestures\TwistRecognizerInspector.cs" />
     <None Include="Assets\Plugins\Demigiant\DemiLib\Core\Editor\DemiEditor.xml" />
     <Reference Include="Unity.2D.Animation.Runtime">
-      <HintPath>E:/unity/工程/Test3/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>E:/unity/工程/Test3/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.IK.Editor">
-      <HintPath>E:/unity/工程/Test3/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.IK.Runtime">
-      <HintPath>E:/unity/工程/Test3/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>E:/unity/工程/Test3/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEngineBridge.001">
-      <HintPath>E:/unity/工程/Test3/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Runtime">
-      <HintPath>E:/unity/工程/Test3/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Editor">
-      <HintPath>E:/unity/工程/Test3/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Triangle.Runtime">
-      <HintPath>E:/unity/工程/Test3/Library/ScriptAssemblies/Unity.2D.Triangle.Runtime.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Library/ScriptAssemblies/Unity.2D.Triangle.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Editor">
-      <HintPath>E:/unity/工程/Test3/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEditorBridge.001">
-      <HintPath>E:/unity/工程/Test3/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>E:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -487,31 +487,31 @@
       <HintPath>E:/unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="DemiLib">
-      <HintPath>E:/unity/工程/Test3/Assets/Plugins/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Assets/Plugins/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
     </Reference>
     <Reference Include="DemiEditor">
-      <HintPath>E:/unity/工程/Test3/Assets/Plugins/Demigiant/DemiLib/Core/Editor/DemiEditor.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Assets/Plugins/Demigiant/DemiLib/Core/Editor/DemiEditor.dll</HintPath>
     </Reference>
     <Reference Include="DOTween">
-      <HintPath>E:/unity/工程/Test3/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
     </Reference>
     <Reference Include="DOTween43">
-      <HintPath>E:/unity/工程/Test3/Assets/Plugins/Demigiant/DOTween/DOTween43.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Assets/Plugins/Demigiant/DOTween/DOTween43.dll</HintPath>
     </Reference>
     <Reference Include="DOTween46">
-      <HintPath>E:/unity/工程/Test3/Assets/Plugins/Demigiant/DOTween/DOTween46.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Assets/Plugins/Demigiant/DOTween/DOTween46.dll</HintPath>
     </Reference>
     <Reference Include="DOTween50">
-      <HintPath>E:/unity/工程/Test3/Assets/Plugins/Demigiant/DOTween/DOTween50.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Assets/Plugins/Demigiant/DOTween/DOTween50.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenEditor">
-      <HintPath>E:/unity/工程/Test3/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenPro">
-      <HintPath>E:/unity/工程/Test3/Assets/Plugins/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Assets/Plugins/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenProEditor">
-      <HintPath>E:/unity/工程/Test3/Assets/Plugins/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
+      <HintPath>E:/gitRespository/OneShoot/Assets/Plugins/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
     </Reference>
     <Reference Include="NSubstitute">
       <HintPath>C:/Users/chocolate/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.2d.common@1.0.10-preview/Tests/Editor/Lib/NSubstitute/NSubstitute.dll</HintPath>
@@ -536,6 +536,9 @@
     </Reference>
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
+    </Reference>
+    <Reference Include="LitJson">
+      <HintPath>E:/gitRespository/OneShoot/Assets/Plugins/LitJson.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>E:/unity/Editor/Data/MonoBleedingEdge/lib/mono/2.0-api/mscorlib.dll</HintPath>
@@ -567,7 +570,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{2192DBE9-C979-5EB2-40BB-F195DA17728E}</Project>
+      <Project>{5C212DD2-7F67-47FE-0006-2E659DD32782}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>

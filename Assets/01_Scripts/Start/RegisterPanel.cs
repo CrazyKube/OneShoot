@@ -34,6 +34,10 @@ public class RegisterPanel : MonoBehaviour
             StartManager.Instance.ShowMessage("密码不能为空！", 2.0f);
             return;
         }
+        //验证注册
+        StartManager.Instance.loginPanel.SetActive(true);
+        StartManager.Instance.ShowMessage("注册成功！", 2.0f);
+        gameObject.SetActive(false);
     }
 
     //点击转换到登录界面
